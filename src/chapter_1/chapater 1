@@ -1,0 +1,106 @@
+// let age = 25;
+// let year = 2019;
+
+// const { Console } = require("console");
+// const { pid } = require("process");
+
+// const { CONNREFUSED } = require("dns");
+
+// console.log(age,year);
+
+// age = 30
+// console.log(age);
+
+// const point = 100;
+
+// console.log(point);
+
+// var score =75;
+// console.log(score);
+
+
+// STRING
+
+// console.log('hellow world');
+
+// let email = "lexus@gmail.com";
+// console.log(email);
+
+
+// STRING CONCATENATION
+
+// let firstName ="Alexander";
+// let lastName ="Magalona";
+
+
+// let fullName = firstName +' ' + lastName;
+// console.log(fullName);
+
+//GETTING CHARACTER
+// console.log(fullName[0]);
+
+// GETTING LENGTH
+// console.log(fullName.length);
+
+
+// STRING METHODS
+// console.log(fullName.toUpperCase());
+// let result = fullName.toLocaleLowerCase();
+// console.log(result,fullName);
+
+// let index = email.indexOf('@');
+// console.log(index)
+
+
+
+// COMMON STRING METHODS
+
+// let email = 'mario@thenetninja.co.uk'
+
+// let result = email.lastIndexOf('n');
+
+// let result = email.slice(0,10)
+
+// let result = email.substring(4,10);
+
+// let result = email.replace('m','w')
+
+// let result = email.replace('n', 'w');
+
+// console.log(result);
+
+
+
+
+
+let radius = 10;
+const pi = 3.14;
+
+// console.log(radius,pi);
+
+// MATH OPERATORS +, -, */,**,%
+
+// Console.log(10 /2);
+// let result = radius % 3;
+// let result = pi * radius**2
+
+//ORDER OF OPERATION - B I D M A S
+
+// let result = 5 * (10-3)**2;
+
+// console.log(result)
+
+let likes = 10;
+
+// likes = likes + 1;
+// likes++;
+// likes--
+// likes += 10;
+// likes -= 5;
+
+//console.log(likes);
+
+
+/// Nan - not a number 
+
+console.log(5 / 'hello');
